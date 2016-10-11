@@ -1,5 +1,4 @@
 # jquery-starLevel
-
 <!--html-->
 <span class="star-rating">
   <input type="radio" name="rating" value="1"><i></i>
